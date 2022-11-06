@@ -13,5 +13,6 @@ public class GitHubTest : MonoBehaviour
     private void Update()
     {
         print("GitHub测试");
+        print("GitHub测试2");
     }
 }
